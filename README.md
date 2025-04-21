@@ -2,7 +2,7 @@
 
 This repository contains implementations of selected assignments from Stanford's renowned course: [CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/). These assignments focus on understanding the foundational components of modern deep learning models.
 
-## 📁 Contents
+## Contents
 
 | Notebook        | Description                                                                 |
 |----------------|-----------------------------------------------------------------------------|
@@ -10,7 +10,7 @@ This repository contains implementations of selected assignments from Stanford's
 | `svm.ipynb`     | Linear SVM classifier: naive and vectorized loss, gradient computation, and training using SGD. |
 | `softmax.ipynb` | Softmax classifier: linear classification with vectorized loss & gradients.|
 
-## 🧠 Key Concepts Covered
+## Key Concepts Covered
 
 - Distance metrics (L1, L2)
 - K-nearest neighbors classification
@@ -29,7 +29,7 @@ This repository contains implementations of selected assignments from Stanford's
 - Matplotlib
 - Jupyter Notebook
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository and run the notebooks using Jupyter:
 
